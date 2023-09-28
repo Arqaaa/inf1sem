@@ -5,7 +5,11 @@ m - int(input())
 matrix = np.zeros((n,m))
 k = 1
 
-for i in range(n) :
-    for p in range(m) :
+while k != m*n:
+
+    for i in range(n) :
+        for j in range(m) :
+
+
         
 
